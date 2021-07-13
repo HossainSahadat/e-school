@@ -1,0 +1,181 @@
+.head{
+    background-color: #FFFFFF;
+    
+}
+
+.header-bg{
+    padding-top: 90px;
+    background-color:#F0FFF0;
+
+}
+
+
+
+header{
+    background-color: #F0FFF0;
+    height: 576px;
+    margin-bottom: 50px;
+    
+}
+.header1{
+    background: #F0FFF0;
+    
+}
+.nav-link{
+    padding-right: 100px;
+
+}
+
+.nav-item{
+    padding-right:10px;
+    padding-left: 30px;
+    font-family: Poppins;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: 24px;
+letter-spacing: 0em;
+text-align: left;
+
+    
+}
+.logo{
+    width:200px
+}
+.card-logo{
+    width: 100px;
+    padding: 40px 10px 10px 10px;
+   
+}
+.card-logo1{
+    width: 85px;
+    padding: 40px 10px 10px 10px;
+   
+}
+.card-bg{
+    border-radius: 15px;
+    background-color: #F8FFFB;
+}
+
+.row{
+    margin-bottom: 80px;
+}
+.card-logo2{
+    background-color:white;
+    border-radius: 15px;
+    box-shadow: 5px 5px  10px lightgrey;
+}
+.header-para{
+    width: 403px;
+    color: gray;
+    height: 70px;
+}
+.get-button{
+    border-radius: 33px;
+    padding: 12px 36px 12px 36px;
+    background: #21B573;
+
+}
+h1{
+    font-family: Poppins;
+font-size: 48px;
+font-style: normal;
+font-weight: 700;
+line-height: 70px;
+letter-spacing: 0em;
+text-align: left;
+
+}
+.header-title{
+    margin-bottom: -15px;
+}
+
+.course-img{
+    width: 325px;
+    padding-top: 15px;
+}
+
+.card-body{
+    padding-right: 135px;
+}
+
+.card-footer{
+  
+    border: none;
+    background-color: #F8FFFB;
+    border-radius: 18px;
+    
+}
+.course-icon{
+    width: 25px;
+    height: 25px;
+}
+
+.course-subtitle{
+    margin-top: 15px;
+    padding-right: 65px;
+    padding-left: 7px;
+}
+.course-seat{
+   margin-right: -70px;
+   padding-left: 7px;
+}
+
+.course-title{
+   
+   
+    font-family: Poppins;
+font-size: 48px;
+font-style: normal;
+font-weight: 700;
+line-height: 54px;
+letter-spacing: 0em;
+text-align: center;
+margin-bottom: 50px;
+
+}
+
+.course-bg{
+    background-color:#F8FFFB;
+    border: none;
+    border-radius: 18px;
+    box-shadow: 0px 0px 40px rgba(0,0,0,0.1);
+
+}
+.testminol-img {
+    width: 105px;
+    height: 105px;
+    margin-left: 225px;
+}
+.testimonial-para{
+    width: 70%;
+}
+
+.testimonial-head{
+    margin-bottom: 40px;
+}
+
+footer{
+    background-color: #282531;
+    height: 370px;
+    margin-top: 150px;
+
+}
+
+footer h6{
+    color: #FFFFFF;
+}
+.footer-para{
+    color:white;
+    margin-top: 30px;
+    width: 62%;
+
+    
+}
+.footer-md6{
+    margin-top: 30px;
+}
+.col-md-2{
+    margin-top: 55px;
+}
+
